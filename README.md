@@ -14,7 +14,7 @@
   
   Instructions on how to install [here](https://pyinstaller.org/en/stable/installation.html)
   
-  Download folder [here](FoldernamesToList/Exported/dist) <br>
+  Download folder [here](EasyPythonExport/Exported/dist) <br>
 
   
 
