@@ -1,5 +1,5 @@
 # Small PC/MAC Tools
- This should be the place where i gather all my useful Programms for small tasks on a PC or (maybe to) for mac
+ This should be the place where i gather all my useful Programms (mostly Python based) for small tasks on a PC or Mac
 
  ## [Foldernames To List](FoldernamesToList)
   Download (Win) [here](FoldernamesToList/Exported/dist) <br>
