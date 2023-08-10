@@ -5,7 +5,7 @@
   Is a small programm that puts every name of every folder that is selected (in the directory selected) into a list CSV, JSON maybe soon 
   xlsx (Excel) too.
 
-  Download (Win) [here](FoldernamesToList/Exported/dist) <br>
+  Download folder [here](FoldernamesToList/Exported/dist) <br>
 
   
   
@@ -14,7 +14,7 @@
   
   Instructions on how to install [here](https://pyinstaller.org/en/stable/installation.html)
   
-  Download (Win) [here](FoldernamesToList/Exported/dist) <br>
+  Download folder [here](FoldernamesToList/Exported/dist) <br>
 
   
 
