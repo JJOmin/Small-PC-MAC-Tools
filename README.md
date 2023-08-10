@@ -10,7 +10,7 @@
   
   
  ## [EasyPythonExport](EasyPythonExport)
-  A usefull programm that makes exporting .py files into .exe files a bit easyer with a simple UI. <p>
+  A usefull programm that makes exporting .py files into .exe files a bit easyer with a simple UI. <b>
   (The pyinstaller module is required. Instructions on how to install [here](https://pyinstaller.org/en/stable/installation.html))
   
   Download folder [here](EasyPythonExport/Exported/dist) <br>
