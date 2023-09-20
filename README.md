@@ -19,7 +19,7 @@
    ## [EasyFilerStripper](EasyFileStripper)
   This program can take files out of several folders and puts them into on single folder. This is useful for coping images out of several albums or mp3 collections into one destination much easier.
   
-  To the Files [here](EasyPythonExport/Exported) <br>
+  To the Files [here](EasyFileStripper/Exported) <br>
 
   
 
