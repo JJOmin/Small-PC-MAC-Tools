@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['C:/Users/Leonhard Tilly/Documents/GitHub/Small-PC-Tools/EasyFolderStripper/EasyFileStripper.py'],
+    ['C:/Users/Leonhard Tilly/Documents/GitHub/Small-PC-Tools/EasyFileStripper/Sourcefiles/EasyFileStripper.py'],
     pathex=[],
     binaries=[],
     datas=[],

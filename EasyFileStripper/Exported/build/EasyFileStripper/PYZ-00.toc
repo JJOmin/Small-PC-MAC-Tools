@@ -1,5 +1,5 @@
 ('C:\\Users\\Leonhard '
- 'Tilly\\Documents\\GitHub\\Small-PC-Tools\\EasyFolderStripper\\Exported\\build\\EasyFileStripper\\PYZ-00.pyz',
+ 'Tilly\\Documents\\GitHub\\Small-PC-Tools\\EasyFileStripper\\Exported\\build\\EasyFileStripper\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Program Files\\Python311\\Lib\\_compat_pickle.py',
    'PYMODULE'),
